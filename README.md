@@ -33,7 +33,7 @@ One of the main challenges was ensuring pixel-perfect alignment and styling base
 
 ## View My Solution
 
-- Live code [Result Summary](https://jd-r0driguez.github.io/age-calculator-app/)
+- Live code [Result Summary](https://jd-r0driguez.github.io/results-summary-component/)
 
 ## Acknowledgements
 
